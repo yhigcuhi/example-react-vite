@@ -1,5 +1,5 @@
 import { Routes, Route } from 'react-router-dom';
-import Reserve from './pages/Reserve';
+import {Reserve} from './pages';
 // import About from './routes/about';
 // import Contact from './routes/contact';
 
